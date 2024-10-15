@@ -1,0 +1,7 @@
+com\scratchgame\definition\ScratchGame.class
+com\scratchgame\definition\WinCombination.class
+com\scratchgame\definition\User.class
+com\scratchgame\symbols\SymbolType.class
+com\scratchgame\ScratchGameMainEntryPoint.class
+com\scratchgame\symbols\BonusSymbols.class
+com\scratchgame\symbols\StandardSymbols.class

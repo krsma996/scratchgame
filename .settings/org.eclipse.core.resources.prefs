@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/scratchgame/ScratchGameMainEntryPoint.java=UTF-8
+encoding//src/main/java/com/scratchgame/config/ScratchGameConfig.java=UTF-8
+encoding//src/main/java/com/scratchgame/definition/Probabilities.java=UTF-8
+encoding//src/test/java/probabilities/ProbabilitiesTest.java=UTF-8
+encoding//src/test/java/scratchgame_test/ScratchGameConfigTest.java=UTF-8
